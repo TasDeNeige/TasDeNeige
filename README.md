@@ -1,6 +1,7 @@
 • 👋 Seems like I’m __TasDeNeige__
 • 👾 Makes silly little games for fun
-• 📫 Python/HTML/CSS
+• 🗺️ English & French
+• 🖥️ Python/HTML/CSS
 • 💬 Discord: ᴛᴀꜱ ᴅ'ɴᴇɪɢᴇ#1481
    **⤷** Twitter: @TasDeNeige_
 
