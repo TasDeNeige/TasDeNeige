@@ -3,7 +3,7 @@
 <h3>About mii</h3>
 • 👾 Makes silly little games for fun <br>
 • 🗺️ Speaks <b>English</b> & <b>French</b> <br>
-• 🖥️ <b>Python</b>/HTML/CSS <br>
+• 🖥️ <b>Python</b>/HTML/CSS (and a little bit of C)<br>
 • 💬 <b>Discord</b>: ᴛᴀꜱ ᴅ'ɴᴇɪɢᴇ#1481 <br>
  &nbsp;&nbsp;&nbsp;&nbsp; ⤷ <b>Twitter:</b> @TasDeNeige_
 
