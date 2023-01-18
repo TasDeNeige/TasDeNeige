@@ -1,4 +1,4 @@
-<h1 align="center">Seems like I’m TasDeNeige 👋</h1>
+<h1 align="center">Hi, I’m TasDeNeige 👋</h1>
  
 <h3>About mii</h3>
 • 👾 Makes silly little games for fun <br>
