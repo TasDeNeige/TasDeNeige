@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I’m TasDeNeige 👋</h1>
+<h1 align="center">Hi, I’m TasDeNeige ∠( ᐛ 」∠)＿</h1>
  
-<h3>About mii</h3>
+<h3>➜ About me</h3>
 • 👾 Makes silly little games for fun <br>
 • 🗺️ Speaks <b>English</b> & <b>French</b> <br>
-• 🖥️ <b>Python</b>/HTML/CSS (and a little bit of C)<br>
-• 💬 <b>Discord</b>: ᴛᴀꜱ ᴅ'ɴᴇɪɢᴇ#1481 <br>
- &nbsp;&nbsp;&nbsp;&nbsp; ⤷ <b>Twitter:</b> @TasDeNeige_
+• 🖥️ <b>Python</b> (and a little bit of C)<br>
+• 💬 <b>Discord</b>: @tasdeneige <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; ⤷ <b>Twitter:</b> @Tas2Neige
 
 
 <!---
