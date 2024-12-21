@@ -4,7 +4,7 @@
 • 👾 Makes silly little games for fun <br>
 • 🎓 <b>Game Programming</b> student <br>
 • 🗺️ Speaks <b>English</b> & <b>French</b> <br>
-• 🖥️ <b>C++</b> / Python<br>
+• 🖥️ <b>C#</b> / C++ / Python<br>
 • 💬 <b>Discord</b>: @tasdeneige <br>
  &nbsp;&nbsp;&nbsp;&nbsp; ⤷ <b>Twitter:</b> @Tas2Neige
 
